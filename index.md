@@ -39,12 +39,13 @@ Users should fill out the Daily check-in form before going onto campus. The form
 <img class="ui medium floated rounded image" src="/images/daily-check-in.png" length="800" width="1000">
 
 ## Add Vaccination Data
+If the user has taken both of their vaccine shots, they can add their vaccination card to Lumi-Camino. The add vaccination form will ask for the vaccine name, manufacturer lot number, date, and site of the first and second dose. 
 
 <img class="ui medium floated rounded image" src="/images/vaccination-data.png" length="800" width="1000">
 
 
 ## Sign Out
-
+The sign-out button is located via the navbar and will ask the user for confirmation.
 <img class="ui medium floated rounded image" src="/images/sign-out.png" length="800" width="1000">
 
 # The Team 
