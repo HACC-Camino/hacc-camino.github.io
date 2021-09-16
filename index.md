@@ -8,7 +8,7 @@ Lumisight is a web application designed to help individuals track daily COVID sy
 
 See our deployed website here: <a href="https://lumi-camino.meteorapp.com/#/" target="_blank">Lumi-Camino</a>
 
-See our project here: [Project Repository](https://github.com/HACC-Camino/HACC-Camino)
+See our project here: <a href="https://github.com/HACC-Camino/HACC-Camino" target="_blank">Project Repository</a>
 
 # Screenshots
 Presented below is a walkthrough of the pages of our application. 
