@@ -35,7 +35,7 @@ Upon logging in, the user is taken to their home page. The page includes a daily
 <img class="ui medium floated rounded image" src="/images/home-page.png" length="800" width="1000">
 
 ## Daily Check In 
-
+Users should fill out the Daily check-in form before going onto campus. The form checks if users test positive for COVID-19, have COVID symptoms, or have recently been exposed to COVID-19. If the user has any of these concerns, then they cannot go to campus.
 <img class="ui medium floated rounded image" src="/images/daily-check-in.png" length="800" width="1000">
 
 ## Add Vaccination Data
