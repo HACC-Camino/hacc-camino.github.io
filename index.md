@@ -30,16 +30,18 @@ Returning users can log in via the Sign In button on the landing page.
 <img class="ui medium floated rounded image" src="/images/sign-in.png" length="800" width="1000">
 
 ## Home Page
+Upon logging in, the user is taken to their home page. The page includes a daily status section, daily health check-in form, add vaccination data form, and resources if users want to know about COVID-19 testing or COVID guidance information. The daily status section displays a message about whether the user should or should not go to campus. This message is determined by the user's response to the daily health check-in form. 
 
 <img class="ui medium floated rounded image" src="/images/home-page.png" length="800" width="1000">
+
+## Daily Check In 
+
+<img class="ui medium floated rounded image" src="/images/daily-check-in.png" length="800" width="1000">
 
 ## Add Vaccination Data
 
 <img class="ui medium floated rounded image" src="/images/vaccination-data.png" length="800" width="1000">
 
-## Daily Check In 
-
-<img class="ui medium floated rounded image" src="/images/daily-check-in.png" length="800" width="1000">
 
 ## Sign Out
 
