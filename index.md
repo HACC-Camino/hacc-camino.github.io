@@ -45,7 +45,7 @@ If the user has taken both of their vaccine shots, they can add their vaccinatio
 <img class="ui medium floated rounded image" src="images/lumi-camino/add-vaccine.png" alt="add-vaccine">
 
 ## Health Page
-The health page contains the daily check-in history of the user and their vaccination data.
+_(Under construction)_ The health page contains the daily check-in history of the user and their vaccination data/card.
 
 <img class="ui medium floated rounded image"  src="images/lumi-camino/health-page.png" alt="health-page">
 
