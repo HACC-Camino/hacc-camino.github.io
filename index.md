@@ -47,7 +47,7 @@ If the user has taken both of their vaccine shots, they can add their vaccinatio
 ## Health Page
 The health page contains the daily check-in history of the user and their vaccination data/card.
 
-<img class="ui medium floated rounded image"  src="images/lumi-caminohealthpage-m3.png" alt="health-page">
+<img class="ui medium floated rounded image"  src="images/lumi-camino/healthpage-m3.png" alt="health-page">
 
 ## View Uploaded Vaccine Card
 After the user uploads their vaccination card, they can view it by selecting "View Vaccination Card" and the file will appear. 
