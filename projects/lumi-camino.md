@@ -68,10 +68,9 @@ The sign-out button is located via the navbar and will ask the user for confirma
 ## Milestones
 ### Milestone 1
 Project board: [M1](https://github.com/HACC-Camino/lumi-camino/projects/1)
-* Focused on creating mock-up pages
 * Implemented sign in, sign up, and sign out functionalities
 * Created collections VaccinationCollection and HealthStatusCollection
-* Implemented the following pages: [Landing Page](#landing-page) and [Home Page](#home-page), []
+* Implemented the following pages: [Landing Page](#landing-page) and [Home Page](#home-page)
 * Implemented [COVID Status of the Day](#daily-check-in) functionality
 * Implemented a navigation bar
 
@@ -86,8 +85,7 @@ Project board: [M3](https://github.com/HACC-Camino/lumi-camino/projects/3)
 * Added a 'Check In History' on Health Page
 * Finalized the entire web application
 
-# The Team: HACCamino
-## Participating Members
+## The Team: HACCamino
 - [Anna Campainha](https://github.com/annacampainha)
 - [Daphne Marie Estacio](https://github.com/dmtapia)
 - [Jerome Gallego](https://github.com/alohajerome)
