@@ -1,5 +1,5 @@
 [Back to HACCamino](../index.md)
-# Lumi-Camino
+# ECOCamino
 ## Table of Contents
 * [Overview](#overview)
 * [Preview](#preview)
