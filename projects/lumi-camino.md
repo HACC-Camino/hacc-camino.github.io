@@ -88,7 +88,7 @@ Project board: [M3](https://github.com/HACC-Camino/lumi-camino/projects/3)
 ## The Team: HACCamino
 - [Anna Campainha](https://github.com/annacampainha)
 - [Daphne Marie Estacio](https://dmtapia.github.io)
-- [Jerome Gallego](https://github.com/alohajerome)
+- [Jerome Gallego](https://alohajerome.github.io)
 - [Michael Gainey](https://github.com/micgainey)
 - [Timothy Huo](https://github.com/timothyhuo1)
 
